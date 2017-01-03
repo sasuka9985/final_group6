@@ -1,6 +1,7 @@
 class Block{
 
 float x,y;
+PImage img;
 
 Block(){
 
